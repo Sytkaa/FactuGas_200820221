@@ -1,0 +1,2 @@
+C:\Users\RubX\Google Drive\000 Desarrollo ADMINGAS\001FactuGasWeb\WebApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\RubX\Google Drive\000 Desarrollo ADMINGAS\001FactuGasWeb\WebApplication1\ClassLibrary1\obj\Debug\Conexion.vbproj.GenerateResource.Cache
